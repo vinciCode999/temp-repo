@@ -1,0 +1,3 @@
+Result: hey my first txt file, hey my second txt file, {flag: 'a'}
+Result: hey my first txt file, hey my second txt fileResult: hey my first txt file, 
+hey my second txt file
